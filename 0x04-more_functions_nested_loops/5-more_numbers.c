@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_numbers - a function that print numbers from 0 to 15
+ * more_numbers - a function that print numbers from 0 to 14
  * Return: Always 0
  */
 
